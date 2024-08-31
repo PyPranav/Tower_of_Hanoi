@@ -4,11 +4,11 @@ This is a Tower of Hanoi visualization webpage built using the Anime.js library.
 
 ## Hosted Site
 
-Check out the live version of the project [here](<a href="https://pypranav.github.io/Tower_of_Hanoi/" target="_blank">Tower of Hanoi</a>).
+Check out the live version of the project <a href="https://pypranav.github.io/Tower_of_Hanoi/" target="_blank">Tower of Hanoi</a>.
 
 ## JavaScript Library
 
-This project leverages the [Anime.js](<a href="https://animejs.com/" target="_blank">Anime.js</a>) library for creating smooth and visually appealing animations.
+This project leverages the <a href="https://animejs.com/" target="_blank">Anime.js</a> library for creating smooth and visually appealing animations
 
 ## Screenshots
 
@@ -20,6 +20,6 @@ Here are a few screenshots of the Tower of Hanoi visualization:
 
 ## How to Use
 
-1. Visit the [Tower of Hanoi visualization](<a href="https://pypranav.github.io/Tower_of_Hanoi/" target="_blank">Tower of Hanoi</a>).
+1. Visit the <a href="https://pypranav.github.io/Tower_of_Hanoi/" target="_blank">Tower of Hanoi</a>.
 2. Watch the animation demonstrate how the disks move from one peg to another, solving the puzzle step by step.
 3. Enjoy the smooth animations powered by Anime.js.
